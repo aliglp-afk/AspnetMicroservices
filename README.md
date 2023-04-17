@@ -1,6 +1,6 @@
-## .Net Microservices
+# .Net Microservices
 
-# Built With
+## Built With
 
 - Mongo - For the catalog database
 - Redis - For the basket database
